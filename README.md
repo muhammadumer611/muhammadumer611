@@ -10,10 +10,10 @@ I am a passionate developer currently transitioning from mobile app development 
 *   Current Learning: Python, Data Analysis (Pandas, NumPy).
 *   Upcoming Goals: Mastering PyTorch and Deep Learning.
 
-📊 GitHub Stats
+📊 My GitHub Stats
 ![Umer's GitHub stats](https://vercel.app)
 
-📈 Current Activity
+🧪 Most Used Languages
 ![Top Langs](https://vercel.app)
 
 📫 Let's Connect
