@@ -9,12 +9,22 @@ I am a passionate developer currently transitioning from mobile app development 
 *   Web: Building AI-integrated websites.
 *   Current Learning: Python, Data Analysis (Pandas, NumPy).
 *   Upcoming Goals: Mastering PyTorch and Deep Learning.
+![Android](https://shields.io)
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+
 
 📊 My GitHub Stats
-![Umer's GitHub stats](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Umer's GitHub stats" />
+</p>
 
 🧪 Most Used Languages
-![Top Langs](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Top Langs" />
+</p>
+
 
 📫 Let's Connect
    LinkedIn: https://www.linkedin.com/in/muhammad-umer-a39319369
