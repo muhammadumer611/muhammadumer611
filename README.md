@@ -119,30 +119,7 @@ My focus is on building intelligent systems using **Machine Learning**, **Deep L
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-## 📈 GitHub Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumer611&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadumer611&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadumer611&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadumer611&theme=tokyonight" width="32%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadumer611&theme=tokyonight&utcOffset=5" width="45%" />
-</p>
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🛣️ AI Journey
 
