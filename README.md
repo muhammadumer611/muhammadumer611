@@ -1,92 +1,185 @@
-<h1 align="center">Hi there, I'm Muhammad Umer! 👋</h1>
+<h1 align="center">
+Hi 👋, I'm Muhammad Umer
+</h1>
+
+<h3 align="center">
+🚀 AI Engineer | Generative AI | Mobile & Web Developer
+</h3>
 
 <p align="center">
-  <em>🚀 Future AI Engineer | Android & Cross-Platform Developer</em>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Generative+AI+Developer;Machine+Learning+Enthusiast;Mobile+%26+Web+Developer;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=muhammadumer611&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
+<a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
-
-## 🙋‍♂️ About Me
-
-I'm a passionate developer currently **transitioning from mobile app development into the world of Artificial Intelligence**. My goal is to become a full-fledged **AI Engineer within the next 4 months!**
-
-- 🔭 Currently learning **Python, Data Analysis & Machine Learning**
-- 🌱 Next goal: **PyTorch & Deep Learning**
-- 💬 Ask me about **Android Development & Cross-Platform Apps**
-- ⚡ Fun fact: *Going from Android to AI — one model at a time!*
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🤖 AI / Data Science (Learning)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🌐 Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Umer's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumer611&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadumer611&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 🧪 Most Used Languages
+# 🚀 About Me
+
+I'm a passionate developer transitioning into the exciting world of **Artificial Intelligence**.
+
+My focus is on building intelligent systems using **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Generative AI** while continuing to develop modern **Mobile**, **Web**, and **Cross-Platform Applications**.
+
+- 🤖 Learning **Generative AI**
+- 🧠 Machine Learning
+- 📊 Data Analysis
+- 🔥 Deep Learning
+- 💬 Natural Language Processing (NLP)
+- 📱 Android Development
+- 🌐 Web Development
+- 💻 Frontend Development
+- 🧪 Software Testing
+- 🚀 Building AI Applications
+
+---
+
+# 💻 Tech Stack
+
+## 🤖 Artificial Intelligence
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+
+![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+
+---
+
+## 📱 Mobile Development
+
+- Android
+- Kotlin
+- Flutter
+
+---
+
+## 🌐 Web Development
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 💻 Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+
+---
+
+## 🧪 Testing
+
+- Manual Testing
+- Bug Reporting
+- Debugging
+- Performance Testing
+
+---
+
+## ⚙️ Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumer611&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🗺️ My AI Learning Roadmap
+# 📈 Most Used Languages
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🛣️ AI Journey
+
+```text
+✅ Android Development
+✅ Cross Platform Development
+✅ Frontend Development
+✅ Web Development
+
+✅ Python
+✅ Data Analysis
+
+✅ Machine Learning
+
+✅ Deep Learning
+
+✅ Natural Language Processing
+
+✅ Generative AI
+
+🎯 AI Engineer
 ```
-✅ Android Development (Expert)
-✅ Cross-Platform Apps
-🔄 Python Basics → Data Analysis (Pandas, NumPy)
-⏳ Machine Learning (Scikit-learn)
-⏳ Deep Learning (PyTorch)
-⏳ AI Engineer 🎯
-```
 
 ---
 
-## 📫 Let's Connect
+# 🎯 Current Focus
+
+- 🤖 Building AI Applications
+- 🧠 Learning LLMs
+- ⚡ Generative AI
+- 📚 Deep Learning
+- 🔥 NLP Projects
+- 🌍 Full Stack AI Development
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/muhammadumer611">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/muhammadumer611">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <em>💬 "InshaAllah, AI Engineer in 4 months!" 🚀</em>
+
+⭐ Turning Ideas into Intelligent Solutions
+
+🚀 AI • Generative AI • Mobile • Web • Innovation
+
 </p>
