@@ -114,7 +114,11 @@ My focus is on building intelligent systems using **Machine Learning**, **Deep L
 </p>
 
 ---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 # 📈 Most Used Languages
 
 <p align="center">
