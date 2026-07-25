@@ -53,7 +53,8 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 
 </p>
 ---
-**## 📊 **GitHub Stats****
+
+# **📊 GitHub Stats**
 
 <p align="center">
 
@@ -71,9 +72,9 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 ---
 **## 🎯 Expertise**
-
 <p align="center">
 
 | 💡 Domain | 📌 Status |
@@ -89,6 +90,7 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 
 </p>`
 ---
+
 **# 📫 Connect With Me**
 
 <p align="center">
