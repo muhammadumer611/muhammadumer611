@@ -53,7 +53,7 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 
 </p>
 ---
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p align="center">
 
@@ -70,28 +70,22 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
   <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 ---
-## 🚀 Learning Journey
+## 🎯 Expertise
 
-```mermaid
-graph LR
-    A[🌐 Web Development] --> B[🐍 Python]
-    C[📱 Mobile Development] --> B
-    B --> D[🧠 Machine Learning]
-    D --> E[🔥 Deep Learning]
-    E --> F[💬 NLP]
-    F --> G[🤖 Generative AI]
-    G --> H[🚀 AI Engineer]
-```
-## 🎯 Current Focus
+<p align="center">
 
-```text
-🧠 Machine Learning
-🤖 Generative AI
-📚 Large Language Models
-⚡ Deep Learning
-💬 NLP
-🚀 AI Application Development
-```
+| 💡 Domain | 📌 Status |
+|-----------|-----------|
+| 🐍 Python | ✅ Proficient |
+| 📊 Data Analysis | ✅ Proficient |
+| 🤖 Machine Learning | ✅ Completed |
+| 🧠 Deep Learning | ✅ Completed |
+| 💬 Natural Language Processing (NLP) | ✅ Completed |
+| ✨ Generative AI | ✅ Completed |
+| 🤖 AI Application Development | 🚀 Building |
+| 📚 Large Language Models (LLMs) | 🌱 Exploring Advanced Concepts |
+
+</p>`
 ---
 # 📫 Connect With Me
 
