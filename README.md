@@ -86,7 +86,6 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 | ✨ Generative AI | ✅ Completed |
 | 🤖 AI Application Development | 🚀 Building |
 | 📚 Large Language Models (LLMs) | 🌱 Exploring Advanced Concepts |
-
 </p>
 
 **# 📫 Connect With Me**
