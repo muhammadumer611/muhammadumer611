@@ -51,7 +51,7 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&theme=github-compact&hide_border=true"/>
 
 </p>
----
+
 
 # **📊 GitHub Stats**
 
@@ -86,20 +86,6 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 | ✨ Generative AI | ✅ Completed |
 | 🤖 AI Application Development | 🚀 Building |
 | 📚 Large Language Models (LLMs) | 🌱 Exploring Advanced Concepts |
-</p>
-
-**# 📫 Connect With Me**
-
-<p align="center">
-
-<a href="https://github.com/muhammadumer611">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
 </p>
 
 ---
