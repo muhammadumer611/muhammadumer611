@@ -44,7 +44,6 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
 </p>
 
----
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -88,8 +87,7 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 | 🤖 AI Application Development | 🚀 Building |
 | 📚 Large Language Models (LLMs) | 🌱 Exploring Advanced Concepts |
 
-</p>`
----
+</p>
 
 **# 📫 Connect With Me**
 
