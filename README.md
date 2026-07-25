@@ -74,13 +74,13 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 
 ```mermaid
 graph LR
-A[Web Development] --> C[Python]
-B[Mobile Apps] --> C
-C --> D[Machine Learning]
-D --> E[Deep Learning]
-E --> F[NLP]
-F --> G[Generative AI]
-G --> H[AI Engineer]
+    A[🌐 Web Development] --> B[🐍 Python]
+    C[📱 Mobile Development] --> B
+    B --> D[🧠 Machine Learning]
+    D --> E[🔥 Deep Learning]
+    E --> F[💬 NLP]
+    F --> G[🤖 Generative AI]
+    G --> H[🚀 AI Engineer]
 ```
 ## 🎯 Current Focus
 
