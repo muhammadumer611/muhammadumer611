@@ -20,96 +20,53 @@ Hi 👋, I'm Muhammad Umer
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate developer transitioning into the exciting world of **Artificial Intelligence**.
+I'm an aspiring **AI Engineer** passionate about designing intelligent systems and modern software solutions.
 
-My focus is on building intelligent systems using **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Generative AI** while continuing to develop modern **Mobile**, **Web**, and **Cross-Platform Applications**.
+Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**, while building practical applications across **Mobile** and **Web Development**.
 
-- 🤖 Learning **Generative AI**
-- 🧠 Machine Learning
-- 📊 Data Analysis
-- 🔥 Deep Learning
-- 💬 Natural Language Processing (NLP)
-- 📱 Android Development
-- 🌐 Web Development
-- 💻 Frontend Development
-- 🧪 Software Testing
-- 🚀 Building AI Applications
-
----
-
-# 💻 Tech Stack
-
-## 🤖 Artificial Intelligence
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-
-![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-
----
-
-## 📱 Mobile Development
-
-- Android
-- Kotlin
-- Flutter
-
----
-
-## 🌐 Web Development
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 💻 Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-
----
-
-## 🧪 Testing
-
-- Manual Testing
-- Bug Reporting
-- Debugging
-- Performance Testing
-
----
-
-## ⚙️ Tools
-
-- Git
-- GitHub
-- VS Code
-
----
-
-# 📊 GitHub Stats
+- 🌱 Learning Generative AI & Large Language Models
+- 🧠 Building AI-powered applications
+- 💻 Passionate about clean code and software architecture
+- 🚀 Always learning new technologies
+  
+## 💻 Tech Stack
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,kotlin,androidstudio,html,css,js,git,github,vscode&perline=13"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumer611&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-00897B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative AI-6A1B9A?style=flat-square"/>
+
+</p>
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&theme=github-dark&hide_border=true"/>
+
+</p>
+
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadumer611&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -121,40 +78,36 @@ My focus is on building intelligent systems using **Machine Learning**, **Deep L
 </p>
 
 
-# 🛣️ AI Journey
+## 🚀 Learning Journey
+
+```mermaid
+graph LR
+
+A[Web Development]
+B[Mobile Apps]
+C[Python]
+D[Machine Learning]
+E[Deep Learning]
+F[NLP]
+G[Generative AI]
+H[AI Engineer]
+
+A --> C
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> H
+## 🎯 Current Focus
 
 ```text
-✅ Android Development
-✅ Cross Platform Development
-✅ Frontend Development
-✅ Web Development
-
-✅ Python
-✅ Data Analysis
-
-✅ Machine Learning
-
-✅ Deep Learning
-
-✅ Natural Language Processing
-
-✅ Generative AI
-
-🎯 AI Engineer
-```
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Building AI Applications
-- 🧠 Learning LLMs
-- ⚡ Generative AI
-- 📚 Deep Learning
-- 🔥 NLP Projects
-- 🌍 Full Stack AI Development
-
----
+🧠 Machine Learning
+🤖 Generative AI
+📚 Large Language Models
+⚡ Deep Learning
+💬 NLP
+🚀 AI Application Development
 
 # 📫 Connect With Me
 
@@ -172,10 +125,10 @@ My focus is on building intelligent systems using **Machine Learning**, **Deep L
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Turning Ideas into Intelligent Solutions
+### "Building intelligent solutions through code, creativity, and continuous learning."
 
-🚀 AI • Generative AI • Mobile • Web • Innovation
+⭐ Thanks for visiting my profile ⭐
 
-</p>
+</div>
