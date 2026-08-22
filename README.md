@@ -4,7 +4,7 @@
 
 <a href="#-about-me">Projects</a> &nbsp;•&nbsp;
 <a href="#-github-statistics">Stats</a> &nbsp;•&nbsp;
-<a href="#-contributions">Contributions</a>
+<a href="#-contributions-by-year">Contributions</a>
 
 </div>
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="https://github.com/muhammadumer611.png" width="160" height="160" style="border-radius:50%;border:4px solid #58A6FF;"/>
+<img src="https://wsrv.nl/?url=github.com/muhammadumer611.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="160" height="160"/>
 
 <br/><br/>
 
@@ -53,17 +53,13 @@ const codeUmer = {
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Code+%E2%9A%A1;Always+Shipping+Something+New+%F0%9F%9A%80" />
 
 </div>
 
 <br/>
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -79,11 +75,31 @@ const codeUmer = {
 
 <br/>
 
+## 📅 Contributions By Year
+
 <div align="center">
 
-## 🐍 Contributions
+**2026**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2026&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
 
-<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+**2025**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2025&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+
+**2024**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2024&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+
+**2023**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2023&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Live Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating through contribution graph" width="100%"/>
 
 </div>
 
