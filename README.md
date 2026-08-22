@@ -1,83 +1,76 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Generative AI • Machine Learning • Mobile & Web Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0A66C2,100:58A6FF&height=220&section=header&text=Muhammad%20Umer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+Something+New" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress+%F0%9F%A4%96;Generative+AI+%26+LLM+Developer+%E2%9C%A8;Machine+Learning+Enthusiast+%F0%9F%93%88;Building+Intelligent+Applications+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%8C%B1" />
 
-<p align="center">
+<br/>
+
 <a href="https://github.com/muhammadumer611">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117"/>
 </a>
-
 <a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=muhammadumer611&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadumer611&style=for-the-badge&color=grey"/>
-</p>
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **AI Engineer** passionate about designing intelligent systems and modern software solutions.
+```yaml
+name: "Muhammad Umer"
+role: "Aspiring AI Engineer"
+focus: ["Machine Learning", "Deep Learning", "NLP", "Generative AI"]
+building: ["Mobile Apps", "Web Apps", "AI-Powered Systems"]
+currently_learning: "Large Language Models & Applied GenAI"
+fun_fact: "Always shipping something new 🚀"
+```
 
-Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**, while building practical applications across **Mobile** and **Web Development**.
+- 🌱 &nbsp;Learning **Generative AI** & **Large Language Models**
+- 🧠 &nbsp;Building **AI-powered applications**
+- 💻 &nbsp;Passionate about **clean code** & **software architecture**
+- 🎓 &nbsp;BSSE student — Android developer with hands-on Kotlin & Jetpack Compose experience
+- 📫 &nbsp;Reach me on **LinkedIn** — always open to collaboration
 
-- 🌱 Learning Generative AI & Large Language Models
-- 🧠 Building AI-powered applications
-- 💻 Passionate about clean code and software architecture
-- 🚀 Always learning new technologies
-  
+<br/>
+
 ## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,kotlin,androidstudio,html,css,js,git,github,vscode&perline=7"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
-</p>
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,js,html,css&theme=dark"/>
 
-## 📈 Contribution Graph
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=58A6FF"/>
 
-<p align="center">
+**Mobile & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&theme=github-compact&hide_border=true"/>
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-</p>
+</div>
 
+<br/>
 
-# **📊 GitHub Stats**
+## 🎯 Expertise
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=muhammadumer611&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-**## 🎯 Expertise**
-<p align="center">
+<div align="center">
 
 | 💡 Domain | 📌 Status |
-|-----------|-----------|
+|:--|:--:|
 | 🐍 Python | ✅ Proficient |
 | 📊 Data Analysis | ✅ Proficient |
 | 🤖 Machine Learning | ✅ Completed |
@@ -86,13 +79,42 @@ Currently exploring **Machine Learning, Deep Learning, NLP, and Generative AI**,
 | ✨ Generative AI | ✅ Completed |
 | 🤖 AI Application Development | 🚀 Building |
 | 📚 Large Language Models (LLMs) | 🌱 Exploring Advanced Concepts |
-</p>
 
----
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github"/>
+<img height="165" src="https://streak-stats.demolab.com?user=muhammadumer611&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
 
-### Building intelligent solutions through code, creativity, and continuous learning.
+### 💬 *"Building intelligent solutions through code, creativity, and continuous learning."*
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer" width="100%"/>
+
+**⭐ Thanks for visiting my profile — let's build something intelligent together ⭐**
 
 </div>
