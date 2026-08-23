@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Muhammad%20Umer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/main/banner.svg" width="100%"/>
 
 <a href="https://github.com/muhammadumer611">Projects</a> &nbsp;•&nbsp;
 <a href="#-github-statistics">Stats</a> &nbsp;•&nbsp;
@@ -137,7 +137,7 @@ const codeUmer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/main/banner.svg" width="100%"/>
 
 <div align="center">
 
