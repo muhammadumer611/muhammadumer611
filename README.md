@@ -4,7 +4,7 @@
 
 <a href="https://github.com/muhammadumer611">Projects</a> &nbsp;•&nbsp;
 <a href="#-github-statistics">Stats</a> &nbsp;•&nbsp;
-<a href="#-contributions-by-year">Contributions</a> &nbsp;•&nbsp;
+<a href="#-live-contribution-animation">Contributions</a> &nbsp;•&nbsp;
 <a href="#-connect-with-me">Connect</a>
 
 <br/>
@@ -79,38 +79,8 @@ const codeUmer = {
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumer611&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=muhammadumer611&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="48%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadumer611&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"/>
-
-</div>
-
-<br/>
-
-## 📅 Contributions By Year
-
-<div align="center">
-
-**2026**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2026&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
-
-**2025**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2025&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
-
-**2024**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2024&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
-
-**2023**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumer611&year=2023&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="95%"/>
 
 </div>
 
