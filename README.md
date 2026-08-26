@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=200&section=header&text=Muhammad%20Umer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=220&section=header&text=Muhammad%20Umer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/muhammadumer611">Projects</a> &nbsp;•&nbsp;
 <a href="#-github-statistics">Stats</a> &nbsp;•&nbsp;
@@ -19,7 +19,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="https://wsrv.nl/?url=github.com/muhammadumer611.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="160" height="160"/>
+<img src="https://wsrv.nl/?url=https://github.com/muhammadumer611.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="160" height="160"/>
 
 <br/><br/>
 
@@ -58,13 +58,13 @@ const codeUmer = {
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&width=100%25" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,kotlin,androidstudio,tensorflow,pytorch,opencv,firebase,git,github,vscode,figma,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,kotlin,androidstudio,tensorflow,pytorch,opencv,firebase,git,github,vscode,figma,linux&theme=dark&perline=12" />
 
 </div>
 
@@ -74,7 +74,7 @@ const codeUmer = {
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumer611&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumer611&theme=github_dark" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%"/>
 
 <br/><br/>
@@ -121,6 +121,8 @@ const codeUmer = {
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating through contribution graph" width="100%"/>
+
+> ⚠️ Yeh animation tabhi dikhega jab neeche di gayi workflow file aapke `muhammadumer611/muhammadumer611` repo mein `.github/workflows/snake.yml` par add ho aur ek dafa run ho chuki ho (Actions tab se manually "Run workflow" bhi kar sakte ho).
 
 </div>
 
