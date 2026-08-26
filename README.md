@@ -92,7 +92,7 @@ const codeUmer = {
 
 <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating through contribution graph" width="100%"/>
 
-> ⚠️ Yeh animation tabhi dikhega jab neeche di gayi workflow file aapke `muhammadumer611/muhammadumer611` repo mein `.github/workflows/snake.yml` par add ho aur ek dafa run ho chuki ho (Actions tab se manually "Run workflow" bhi kar sakte ho).
+
 
 </div>
 
