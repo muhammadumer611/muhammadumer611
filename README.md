@@ -1,118 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=220&section=header&text=Muhammad%20Umer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Mobile%20%26%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Muhammad Umer
 
-<a href="https://github.com/muhammadumer611">Projects</a> &nbsp;•&nbsp;
-<a href="#-github-statistics">Stats</a> &nbsp;•&nbsp;
-<a href="#-live-contribution-animation">Contributions</a> &nbsp;•&nbsp;
-<a href="#-connect-with-me">Connect</a>
+### AI Engineer • Mobile Developer • Web Developer
 
-<br/>
+<p>
+  <a href="https://github.com/muhammadumer611">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Ideas+Into+Code+%E2%9A%A1;Always+Shipping+Something+New+%F0%9F%9A%80;Let's+Build+Something+Intelligent+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1;AI+%7C+Mobile+%7C+Web+Development;Always+Learning.+Always+Building.+%F0%9F%9A%80" />
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="30%" align="center">
+## 👋 About Me
 
-<img src="https://wsrv.nl/?url=https://github.com/muhammadumer611.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="160" height="160"/>
+```javascript
+const umer = {
+    name: "Muhammad Umer",
+    education: "BS Software Engineering",
+    university: "University of Lahore — Sargodha Campus",
+    location: "Pakistan",
+
+    role: "AI Engineer in Progress",
+
+    interests: [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "Mobile Development",
+        "Web Development"
+    ],
+
+    currentlyLearning: "Large Language Models",
+    mindset: "Build. Learn. Improve. Repeat.",
+    openTo: "Collaborations & Opportunities"
+};
+```
+
+I enjoy building **AI-powered applications and modern software systems** that solve real-world problems. My goal is to combine intelligent technologies with clean, practical, and user-focused software.
+
+---
+
+## 🚀 What I Build
+
+| Area                       | Focus                                               |
+| -------------------------- | --------------------------------------------------- |
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, NLP, Generative AI |
+| 📱 Mobile Development      | Android, Kotlin, Jetpack Compose                    |
+| 🌐 Web Development         | Modern web applications and APIs                    |
+| 👁️ Computer Vision        | OpenCV and image-based AI solutions                 |
+| ☁️ Backend & Cloud         | Firebase and application services                   |
+| 🛠️ Software Engineering   | Clean code, Git, APIs & system development          |
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js&theme=dark"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+</p>
+
+### Mobile & Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js&theme=dark"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,linux&theme=dark"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/muhammadumer611">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumer611&repo=YOUR-BEST-REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/muhammadumer611">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumer611&repo=YOUR-SECOND-REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+> Replace `YOUR-BEST-REPOSITORY` and `YOUR-SECOND-REPOSITORY` with your actual best project repositories.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumer611&theme=github_dark" width="95%"/>
 
 <br/><br/>
 
-⚡ *Crazy programmer! Passionate & Ambitious. I love the wide range of stacks of Software Engineering that includes Mobile & AI.* ⚡
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="47%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="47%"/>
 
-<a href="https://github.com/muhammadumer611"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="https://www.linkedin.com/in/muhammad-umer-a39319369"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=muhammadumer611&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+AI Engineering       ███████████████████░   95%
+Machine Learning     ██████████████████░░   90%
+Mobile Development   █████████████████░░░   85%
+Web Development      ████████████████░░░░   80%
+Generative AI        ███████████████░░░░░   75%
+```
+
+Currently exploring **LLMs, Generative AI, intelligent applications, and scalable software systems.**
+
+---
+
+## 💡 Developer Philosophy
+
+> **"Don't just write code. Build something that matters."**
+
+I believe the best software comes from combining **curiosity, engineering discipline, continuous learning, and real-world problem solving.**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/muhammadumer611">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-umer-a39319369">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=muhammadumer611&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
-</td>
-<td width="70%">
-
-```js
-const codeUmer = {
-  name: "Muhammad Umer",
-  title: "BSSE Student",
-  university: "University of Lahore, Sargodha Campus",
-  location: "Pakistan",
-  role: "AI Engineer in Progress",
-  focus: ["Machine Learning", "Deep Learning", "NLP", "Generative AI"],
-  building: ["Mobile Apps", "Web Apps", "AI-Powered Systems"],
-  skills: ["Python", "Kotlin", "Jetpack Compose",
-           "TensorFlow", "PyTorch", "OpenCV",
-           "Firebase", "Git"],
-  currentlyLearning: "Large Language Models",
-  hireable: true,
-};
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58A6FF&height=3&width=100%25" width="100%"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,kotlin,androidstudio,tensorflow,pytorch,opencv,firebase,git,github,vscode,figma,linux&theme=dark&perline=12" />
-
 </div>
 
-<br/>
-
-## 📊 GitHub Statistics
+---
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadumer611&theme=github_dark" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadumer611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" width="48%"/>
+### ⭐ Thanks for visiting my profile!
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=muhammadumer611&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF" width="48%"/>
-
-</div>
-
-<br/>
-
-## 🐍 Live Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating through contribution graph" width="100%"/>
-
-
-
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/muhammadumer611"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-umer-a39319369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer" width="100%"/>
-
-<div align="center">
-
-**⭐ Thanks for visiting my profile — let's build something intelligent together ⭐**
+**Building intelligent software, one project at a time. 🚀**
 
 </div>
