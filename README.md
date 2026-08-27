@@ -90,21 +90,6 @@ I enjoy building **AI-powered applications and modern software systems** that so
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/muhammadumer611">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumer611&repo=YOUR-BEST-REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/muhammadumer611">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumer611&repo=YOUR-SECOND-REPOSITORY&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
-> Replace `YOUR-BEST-REPOSITORY` and `YOUR-SECOND-REPOSITORY` with your actual best project repositories.
 
 ---
 
@@ -129,12 +114,12 @@ I enjoy building **AI-powered applications and modern software systems** that so
 ---
 
 ## 🐍 Contribution Activity
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation"/>
 
 </div>
+
 
 ---
 
