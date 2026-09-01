@@ -45,7 +45,6 @@ const umer = {
 };
 ```
 
-I enjoy building **AI-powered applications and modern software systems** that solve real-world problems. My goal is to combine intelligent technologies with clean, practical, and user-focused software.
 
 ---
 
