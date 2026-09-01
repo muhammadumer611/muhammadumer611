@@ -50,7 +50,6 @@ I enjoy building **AI-powered applications and modern software systems** that so
 ---
 
 ## 🚀 What I Build
-
 | Area                       | Focus                                               |
 | -------------------------- | --------------------------------------------------- |
 | 🤖 Artificial Intelligence | Machine Learning, Deep Learning, NLP, Generative AI |
@@ -63,31 +62,22 @@ I enjoy building **AI-powered applications and modern software systems** that so
 ---
 
 ## 🧰 Tech Stack
-
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js&theme=dark"/>
 </p>
-
 ### AI / Machine Learning
-
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 </p>
-
 ### Mobile & Web
-
 <p>
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,css,js&theme=dark"/>
 </p>
-
 ### Tools & Platforms
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,linux&theme=dark"/>
 </p>
-
 ---
 
 ---
