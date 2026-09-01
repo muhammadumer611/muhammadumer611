@@ -90,7 +90,6 @@ I enjoy building **AI-powered applications and modern software systems** that so
 
 ---
 
-
 ---
 
 ## 📊 GitHub Analytics
@@ -119,8 +118,6 @@ I enjoy building **AI-powered applications and modern software systems** that so
 <img src="https://raw.githubusercontent.com/muhammadumer611/muhammadumer611/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation"/>
 
 </div>
-
-
 ---
 
 ## 🎯 Current Focus
